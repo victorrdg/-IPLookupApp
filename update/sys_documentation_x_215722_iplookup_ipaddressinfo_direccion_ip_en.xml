@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="direccion_ip" label="Direccion IP" language="en" table="x_215722_iplookup_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>direccion_ip</element>
+            <help/>
+            <hint/>
+            <label>Direccion IP</label>
+            <language>en</language>
+            <name>x_215722_iplookup_ipaddressinfo</name>
+            <plural>Direccion IPs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-11 17:02:59</sys_created_on>
+            <sys_id>e252b6174f1d130074458deba310c74b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Direccion IP</sys_name>
+            <sys_package display_value="IPLookup" source="x_215722_iplookup">f416265f4fd9130074458deba310c7a3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPLookup">f416265f4fd9130074458deba310c7a3</sys_scope>
+            <sys_update_name>sys_documentation_x_215722_iplookup_ipaddressinfo_direccion_ip_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-11 17:02:59</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
